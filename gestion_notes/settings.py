@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-484s8x1bm(jrb#ru^=d&xyc8j522vm@*5md48*mi_sn2s2f$d0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['test-jenkins-ocpi.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
